@@ -9,10 +9,10 @@ One week on a volcanic island sounds fun already, but spending that week crawlin
 <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/ac566c9f565898839ef7d949efd71be01e5941a7/img/1.jpg" >
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/2.jpg" style="width:500px; height:300px; object-fit:cover;">
-  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/3.jpg" style="width:500px; height:300px; object-fit:cover;">
-  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/4.jpg" style="width:500px; height:300px; object-fit:cover;">
-  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/5.jpg" style="width:500px; height:300px; object-fit:cover;">
+  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/2.jpg" style="width:400px; height:300px; object-fit:cover;">
+  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/3.jpg" style="width:400px; height:300px; object-fit:cover;">
+  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/4.jpg" style="width:400px; height:300px; object-fit:cover;">
+  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/5.jpg" style="width:400px; height:300px; object-fit:cover;">
 </p>
 
 
