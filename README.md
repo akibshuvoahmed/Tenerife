@@ -75,10 +75,10 @@ What really blows your mind up there is the sheer scale of the volcano. You can 
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/17.jpg" style="width:240px; margin:0 5px;">
-  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/18.jpg" style="width:240px; margin:0 5px;">
-  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/19.jpg" style="width:240px; margin:0 5px;">
-  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/20.jpg" style="width:240px; margin:0 5px;">
+  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/17.jpg" style="width:220px; margin:0 5px;">
+  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/18.jpg" style="width:220px; margin:0 5px;">
+  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/19.jpg" style="width:220px; margin:0 5px;">
+  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/20.jpg" style="width:220px; margin:0 5px;">
 </p>
 
 ---
@@ -95,9 +95,9 @@ It also gave me a chance to share space with scientists and ask the kind of nerd
 Huge thanks to **Sharon Backhouse**, **IGNACIO GARCIA**, and **Alexis Schwartz** for making the whole experience unforgettable.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/21.jpg" style="width:320px; height:280px; margin:0 5px;">
-  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/22.jpg" style="width:320px; height:280px; margin:0 5px;">
-  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/23.jpg" style="width:320px; height:280px; margin:0 5px;">
+  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/21.jpg" style="width:300px; height:280px; margin:0 5px;">
+  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/22.jpg" style="width:300px; height:280px; margin:0 5px;">
+  <img src="https://raw.githubusercontent.com/akibshuvoahmed/Tenerife/main/img/23.jpg" style="width:300px; height:280px; margin:0 5px;">
 </p>
 
 
